@@ -1,4 +1,4 @@
-sudoku-solver-cli/
+CLI-Sudoku-solver
 │
 ├── sudoku_solver.cpp       ✅ ← main code
 ├── puzzles.txt             ✅ ← sample puzzle input
